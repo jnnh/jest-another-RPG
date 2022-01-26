@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/jnnh/jest-another-RPG#readme",
   "devDependencies": {
-    "jest": "^27.4.7"
+    "jest": "^24.9.0"
   },
   "dependencies": {
     "inquirer": "^8.2.0"
